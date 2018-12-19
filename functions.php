@@ -1,5 +1,6 @@
 <?php
 	function demo(){
-		echo "hello welcome to demo function";
+		echo "hello welcome";
+		echo "this is the demo function"
 	}
 ?>
